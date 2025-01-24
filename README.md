@@ -3,10 +3,10 @@
 <p>
     I’m a full-stack developer with over 1 year of experience and a knack for building scalable, user-focused applications. I love turning complex ideas into clean, functional, and visually appealing solutions.
 </p>
-### :zap: Repositories I've Contributed To
+:zap: Recent Activity
+<!--START_SECTION:activity-->
 
-<!-- START_SECTION:repositories -->
-<!-- END_SECTION:repositories -->
+<!--END_SECTION:activity-->
 
 <h2>🔧 What I Code:</h2>
 <ul>
