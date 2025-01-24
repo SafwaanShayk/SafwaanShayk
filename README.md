@@ -4,6 +4,12 @@
     I’m a full-stack developer with over 1 year of experience and a knack for building scalable, user-focused applications. I love turning complex ideas into clean, functional, and visually appealing solutions.
 </p>
 
+<h2>🌍 Repositories I've Contributed To</h2>
+
+- [Star Booker](https://github.com/CloudVisionExtenral/Celebrity-BackEnd) — _My contributions: 12 PRs, 50 commits._
+- [Steam Iron](https://github.com/GokuMUI12/SteamIronBackend) — _Added new features and resolved bugs._
+- [Spark](https://github.com/SafwaanShayk/Spark) — _Optimized backend and API integrations._
+
 :zap: Recent Activity
 
 <!--START_SECTION:activity-->
