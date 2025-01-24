@@ -3,8 +3,11 @@
 <p>
     I’m a full-stack developer with over 1 year of experience and a knack for building scalable, user-focused applications. I love turning complex ideas into clean, functional, and visually appealing solutions.
 </p>
+
 :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 <h2>🔧 What I Code:</h2>
