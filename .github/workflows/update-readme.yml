@@ -17,7 +17,7 @@ jobs:
         uses: marketplacer/repository-contributor-readme@v1.1
         with:
           username: <SafwaanShayk> # Replace with your GitHub username
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SHACONT_TOKEN }}
           readme: README.md
           top: 10 # Number of repositories to list
           title: "Repositories I've Contributed To"
