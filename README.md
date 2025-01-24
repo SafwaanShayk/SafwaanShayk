@@ -5,8 +5,8 @@
 </p>
 ### :zap: Repositories I've Contributed To
 
-<!-- REPOSITORY-LIST:START -->
-<!-- REPOSITORY-LIST:END -->
+<!-- START_SECTION:repositories -->
+<!-- END_SECTION:repositories -->
 
 <h2>🔧 What I Code:</h2>
 <ul>
