@@ -23,11 +23,12 @@
 
 <h2>🔧 What I Code:</h2>
 <ul>
-    <li>Backend wizardry with C#, .NET Core, and Entity Framework</li>
-    <li>Frontend magic with React, Angular, and UI libraries</li>
-    <li>Seamless API integrations that work like clockwork 🚀</li>
-    <li>AI-powered solutions leveraging OpenAI</li>
-    <li>Scalable web applications with new frameworks</li>
+    <li>Backend sorcery with C#, .NET Core 8, and Entity Framework Core for ultra-efficient data access</li>
+    <li>Next-gen UI development using Angular, React, and state-of-the-art libraries like Material UI and Tailwind CSS</li>
+    <li>Architecting microservices and RESTful APIs with razor-sharp precision 🚀</li>
+    <li>AI-enhanced solutions leveraging OpenAI APIs, integrating machine learning into real-world applications</li>
+    <li>Scaling cloud-native applications with containerization (Docker/Kubernetes) and serverless architectures</li>
+    <li>Event-driven systems using SignalR and real-time data streaming for dynamic user experiences</li>
 </ul>
 
 <h2>🌍 When I’m Not Coding:</h2>
