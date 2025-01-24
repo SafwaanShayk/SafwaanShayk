@@ -1,7 +1,10 @@
 <h1 align="center">Hello World👋 I'm Safwaan</h1>
-<h1>About Me</h1>
+<h2>🌟 About Me</h2>
 <p>
-    I’m a full-stack developer with over 1 year of experience and a knack for building scalable, user-focused applications. I love turning complex ideas into clean, functional, and visually appealing solutions.
+I’m a dynamic full-stack developer with years of experience in engineering scalable, user-centric applications. Passionate about transforming complex challenges into seamless, high-performance solutions, I specialize in crafting intuitive user interfaces and robust backend architectures.  
+</p>
+<p>
+From leveraging the power of C#, .NET Core, and AI-driven technologies to creating captivating frontends with Angular and React, I thrive on pushing the boundaries of innovation. My mission? Deliver cutting-edge, scalable applications that leave users amazed.
 </p>
 
 <h2>🌍 Repositories I've Contributed To</h2>
