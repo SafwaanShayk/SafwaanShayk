@@ -5,7 +5,6 @@
 </p>
 :zap: Recent Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <h2>🔧 What I Code:</h2>
