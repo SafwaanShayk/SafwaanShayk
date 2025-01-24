@@ -7,7 +7,7 @@ I’m a dynamic full-stack developer with years of experience in engineering sca
 From leveraging the power of C#, .NET Core, and AI-driven technologies to creating captivating frontends with Angular and React, I thrive on pushing the boundaries of innovation. My mission? Deliver cutting-edge, scalable applications that leave users amazed.
 </p>
 
-<h2>🌍 Repositories I've Contributed To</h2>
+<h2>👨‍💻 Repositories I've Contributed To</h2>
 
 - [Star Booker](https://github.com/CloudVisionExtenral/Celebrity-BackEnd) — _My contributions: 12 PRs, 50 commits._
 - [Steam Iron](https://github.com/GokuMUI12/SteamIronBackend) — _Added new features and resolved bugs._
