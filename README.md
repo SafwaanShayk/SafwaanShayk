@@ -60,4 +60,4 @@ From leveraging the power of C#, .NET Core, and AI-driven technologies to creati
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safwaanshayk&show_icons=true&locale=en" alt="safwaanshayk" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lilac-rho.vercel.app?user=safwaanshayk" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-1glo355mb-safwaanshayks-projects.vercel.app?user=SafwaanShayk&theme=dark" alt="GitHub Streak" /></a>
