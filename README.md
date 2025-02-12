@@ -9,7 +9,7 @@ From leveraging the power of C#, .NET Core, and AI-driven technologies to creati
 
 <h2>👨‍💻 Repositories I've Contributed To</h2>
 
-- [Star Booker](https://github.com/CloudVisionExtenral/Celebrity-BackEnd) — _My contributions: 12 PRs, 50 commits._
+- [Star Booker](https://github.com/CloudVisionExtenral/Celebrity-BackEnd) — _Private_ - __My contributions: 32 PRs, 150 commits._
 - [Steam Iron](https://github.com/GokuMUI12/SteamIronBackend) — _Added new features and resolved bugs._
 - [Spark](https://github.com/SafwaanShayk/Spark) — _Optimized backend and API integrations._
 
