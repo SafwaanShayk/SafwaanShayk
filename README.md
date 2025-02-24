@@ -17,11 +17,11 @@ From leveraging the power of C#, .NET Core, and AI-driven technologies to creati
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#36](https://github.com/inamullah00/MaintenanceApp/pull/36) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-2. 💪 Opened PR [#36](https://github.com/inamullah00/MaintenanceApp/pull/36) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-3. 🎉 Merged PR [#26](https://github.com/inamullah00/MaintenanceApp/pull/26) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-4. 💪 Opened PR [#26](https://github.com/inamullah00/MaintenanceApp/pull/26) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-5. 🎉 Merged PR [#19](https://github.com/inamullah00/MaintenanceApp/pull/19) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
+1. 🎉 Merged PR [#45](https://github.com/inamullah00/MaintenanceApp/pull/45) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
+2. 💪 Opened PR [#45](https://github.com/inamullah00/MaintenanceApp/pull/45) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
+3. 🎉 Merged PR [#41](https://github.com/inamullah00/MaintenanceApp/pull/41) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
+4. 💪 Opened PR [#41](https://github.com/inamullah00/MaintenanceApp/pull/41) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
+5. 🎉 Merged PR [#39](https://github.com/inamullah00/MaintenanceApp/pull/39) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
 <!--END_SECTION:activity-->
 
 <h2>🔧 What I Code:</h2>
