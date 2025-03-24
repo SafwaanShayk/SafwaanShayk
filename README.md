@@ -4,7 +4,7 @@
 I’m a full-stack developer with years of experience in engineering scalable, user-centric applications. Passionate about transforming complex challenges into seamless, high-performance solutions, I specialize in crafting intuitive user interfaces and robust backend architectures.  
 </p>
 <p>
-From leveraging the power of C#, .NET Core, and AI-driven technologies to creating captivating frontends with Angular and React, I thrive on pushing the boundaries of innovation. My mission? Deliver cutting-edge, scalable applications that leave users amazed.
+From leveraging the power of C#, .NET Core, and AI-driven technologies to creating captivating frontends with React and Angular, I thrive on pushing the boundaries of innovation. My mission? Deliver cutting-edge, scalable applications that leave users amazed.
 </p>
 
 <h2>👨‍💻 Repositories I've Contributed To</h2>
@@ -58,6 +58,6 @@ From leveraging the power of C#, .NET Core, and AI-driven technologies to creati
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwaanshayk&show_icons=true&theme=dark&locale=en&layout=compact" alt="safwaanshayk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-card-safwaanshayks-projects.vercel.app/api?username=safwaanshayk&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private=true" alt="safwaanshayk" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-card-safwaanshayks-projects.vercel.app/api?username=safwaanshayk&show_icons=true&theme=dark&include_all_commits=true&locale=en" alt="safwaanshayk" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-git-main-safwaanshayks-projects.vercel.app?user=safwaanshayk&theme=dark" alt="GitHub Streak" /></a>
