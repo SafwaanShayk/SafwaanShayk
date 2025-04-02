@@ -7,23 +7,6 @@ I’m a full-stack developer with years of experience in engineering scalable, u
 From leveraging the power of C#, .NET Core, and AI-driven technologies to creating captivating frontends with React and Angular, I thrive on pushing the boundaries of innovation. My mission? Deliver cutting-edge, scalable applications that leave users amazed.
 </p>
 
-<h2>👨‍💻 Repositories I've Contributed To</h2>
-
-- [Star Booker](https://github.com/CloudVisionExtenral/Celebrity-BackEnd) — _Private_ - __My contributions: 32 PRs, 150 commits._
-- [Steam Iron](https://github.com/GokuMUI12/SteamIronBackend) — _Added new features and resolved bugs._
-- [Spark](https://github.com/SafwaanShayk/Spark) — _Optimized backend and API integrations._
-
-:zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#48](https://github.com/inamullah00/MaintenanceApp/pull/48) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-2. 💪 Opened PR [#48](https://github.com/inamullah00/MaintenanceApp/pull/48) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-3. 🎉 Merged PR [#45](https://github.com/inamullah00/MaintenanceApp/pull/45) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-4. 💪 Opened PR [#45](https://github.com/inamullah00/MaintenanceApp/pull/45) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-5. 🎉 Merged PR [#41](https://github.com/inamullah00/MaintenanceApp/pull/41) in [inamullah00/MaintenanceApp](https://github.com/inamullah00/MaintenanceApp)
-<!--END_SECTION:activity-->
-
 <h2>🔧 What I Code:</h2>
 <ul>
     <li>Backend sorcery with C#, .NET Core 8, and Entity Framework Core for ultra-efficient data access</li>
